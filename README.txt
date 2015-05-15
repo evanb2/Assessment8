@@ -1,3 +1,17 @@
+Tattered Cover Bookstore Drupal Site
+By Evan Butler
+Date: May 15, 2015.
+
+A site where users can post book reviews.
+
+Database Name: book_store
+    Username: user
+    Password: password
+
+Drupal Site Maintenance Account:
+    Username: admin
+    Password: 1234
+
 
 CONTENTS OF THIS FILE
 ---------------------
